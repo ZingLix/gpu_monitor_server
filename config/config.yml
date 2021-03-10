@@ -1,0 +1,18 @@
+database:
+  path: "mongo.zinglix.xyz"
+  port: 27017
+  username: zinglix
+  password: ecustDOOFmg1512
+client:
+  -
+    name: l82
+    address: 172.20.46.82:12045
+  -
+    name: l87
+    address: 172.20.46.87:12045
+  -
+    name: l42
+    address: 172.20.46.42:12045
+  - 
+    name: l91
+    address: 172.20.46.91:12045
